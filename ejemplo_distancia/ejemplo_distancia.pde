@@ -14,3 +14,7 @@ public void calcularDistancia(){
 public void mostrarDistancia(){
  println(distanciaMK); 
 }
+
+public void saltar(){
+  
+}
